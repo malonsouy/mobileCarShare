@@ -1,0 +1,44 @@
+[
+  {
+    "question" : ["How far in advance can I book a caddie?"],
+    "answer": [
+      "2 months."
+    ]
+  },
+  {
+    "question" : ["How do caddies get paid?"],
+    "answer": [
+      "Golfers add a payment method and payments happen within the app."
+    ]
+  },
+  {
+    "question" : ["I need to change my round details, is there a way to do that?"],
+    "answer": [
+      "Yes. Golfers can edit the round details before they tee off."
+    ]
+  },
+  {
+    "question" : ["What if I need two caddies?"],
+    "answer": [
+      "Golfers can book two caddies at the same time."
+    ]
+  },
+  {
+    "question" : ["Is my payment info secure?"],
+    "answer": [
+      "Absolutely! \nWe use a third party to handle payments that uses the highest levels of encryption. \nWe dont store any payment info whatsoever."
+    ]
+  },
+  {
+    "question" : ["How come I cant see the caddie I want?"],
+    "answer" : [
+      "It's possible that caddie is already taken during the time you specified."
+    ]
+  },
+  {
+    "question" : ["How do I tip caddies?"],
+    "answer" : [
+      "You can do it in the app or in person with cash once the round is complete."
+    ]
+  }
+]

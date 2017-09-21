@@ -1,0 +1,147 @@
+{
+  "signUp": {
+    "title": "Digital Keys",
+    "subtitle": "Welcome to Bagger!",
+    "text": "Take your game to the next level with the app that connects you with the best caddies around",
+  },
+  "login":{
+    "title": "Login",
+    "email": "EMAIL ADDRESS",
+    "password": "PASSWORD"
+  },
+  "forgotPassword": {
+    "title": "Forgot Your Password?",
+    "subtitle": "You will receive an email with instructions for reseting your password."
+  },
+  "choosePayment": {
+    "title": "Choose a Payment Method",
+    "text": "We will use the method you choose to cover your payments and tips!",
+    "card": "Credit or Debit Card",
+    "account": "Checking Account",
+    "skip": "Skip for now",
+    "apple": "Apple Pay",
+  },
+  "bankAccount": {
+    "title": "Account Information",
+    "subtitle": "Enter your bank account information below so you can receive payments",
+    "routing": "ROUTING NUMBER",
+    "account": "ACCOUNT NUMBER",
+    "birth": "DATE OF BIRTH",
+    "address": "BILLING INFORMATION"
+  },
+  "cardForm": {
+    "title": "Credit or Debit Card",
+    "card": "CREDIT CARD NUMBER",
+    "address": "BILLING INFORMATION"
+  },
+  "golferAccount": {
+    "title": "Create a Golfer Account",
+    "personalInfo": "PERSONAL INFORMATION"
+  },
+  "caddieAccount": {
+    "title": "Create a Caddie Account",
+    "personalInfo": "PERSONAL INFORMATION"
+  },
+  "roundComplete": {
+    "title": "Round Complete!",
+    "text": "We hope you enjoyed your round. Don't forget to tip your caddie!",
+    "skip": "Tip in Cash"
+  },
+  "error": {
+    "text": "Oops, something went wrong."
+  },
+
+  "pickers": {
+    "usaStates": [
+      "Alabama",
+      "Alaska",
+      "American Samoa",
+      "Arizona",
+      "Arkansas",
+      "California",
+      "Colorado",
+      "Connecticut",
+      "Delaware",
+      "District Of Columbia",
+      "Federated States Of Micronesia",
+      "Florida",
+      "Georgia",
+      "Guam",
+      "Hawaii",
+      "Idaho",
+      "Illinois",
+      "Indiana",
+      "Iowa",
+      "Kansas",
+      "Kentucky",
+      "Louisiana",
+      "Maine",
+      "Marshall Islands",
+      "Maryland",
+      "Massachusetts",
+      "Michigan",
+      "Minnesota",
+      "Mississippi",
+      "Missouri",
+      "Montana",
+      "Nebraska",
+      "Nevada",
+      "New Hampshire",
+      "New Jersey",
+      "New Mexico",
+      "New York",
+      "North Carolina",
+      "North Dakota",
+      "Northern Mariana Islands",
+      "Ohio",
+      "Oklahoma",
+      "Oregon",
+      "Palau",
+      "Pennsylvania",
+      "Puerto Rico",
+      "Rhode Island",
+      "South Carolina",
+      "South Dakota",
+      "Tennessee",
+      "Texas",
+      "Utah",
+      "Vermont",
+      "Virgin Islands",
+      "Virginia",
+      "Washington",
+      "West Virginia",
+      "Wisconsin",
+      "Wyoming"
+    ]
+  },
+
+  "placeHolder":{
+    "firstName" : "First Name",
+    "lastName" : "Last Name",
+    "member#" : "Member #",
+    "email" : "Email",
+    "mobileNumber" : "Mobile Number",
+    "password" : "Password",
+    "routingNumber" : "Routing Number",
+    "accountNumber" : "Account Number",
+    "cardNumber": "Card Number",
+    "cardExp" : "Exp (mm/yyyy)",
+    "cvc" : "CVC",
+    "streetAddress" : "Street Address",
+    "zip" : "Zip Code",
+    "city" : "City",
+    "state" : "State",
+    "date" : "Date",
+    "time" : "Time",
+    "day" : "Day",
+    "month" : "Month",
+    "year" : "Year",
+    "changePassword" : "Change Password",
+    "currentPassword" : "Current Password",
+    "newPassword" : "New Password",
+    "repeatNewPassword" : "Repeat New Password",
+    "addYourPhoto" : "Add Your Photo",
+    "last4Digits" : "Last 4 digits of SSN",
+    "yearsExp" : "Years of Experience"
+  }
+}

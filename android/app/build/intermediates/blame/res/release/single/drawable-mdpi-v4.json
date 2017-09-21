@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/manu/work/dixtra/Caddie/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/src_assets_icons_empty_avatar.jpg",
+        "source": "/home/manu/work/dixtra/Caddie/android/app/src/main/res/drawable-mdpi/src_assets_icons_empty_avatar.jpg"
+    },
+    {
+        "merged": "/home/manu/work/dixtra/Caddie/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/src_assets_icons_onload_user_gavatar.jpg",
+        "source": "/home/manu/work/dixtra/Caddie/android/app/src/main/res/drawable-mdpi/src_assets_icons_onload_user_gavatar.jpg"
+    },
+    {
+        "merged": "/home/manu/work/dixtra/Caddie/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/src_assets_icons_user_avatar.jpg",
+        "source": "/home/manu/work/dixtra/Caddie/android/app/src/main/res/drawable-mdpi/src_assets_icons_user_avatar.jpg"
+    },
+    {
+        "merged": "/home/manu/work/dixtra/Caddie/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_os_notification_fallback_white_24dp.png",
+        "source": "/home/manu/work/dixtra/Caddie/android/app/build/intermediates/exploded-aar/com.onesignal/OneSignal/3.4.4/res/drawable-mdpi-v4/ic_os_notification_fallback_white_24dp.png"
+    }
+]

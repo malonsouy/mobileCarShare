@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/manu/work/dixtra/Caddie/android/app/build/intermediates/res/merged/release/drawable-xxhdpi-v4/ic_os_notification_fallback_white_24dp.png",
+        "source": "/home/manu/work/dixtra/Caddie/android/app/build/intermediates/exploded-aar/com.onesignal/OneSignal/3.4.4/res/drawable-xxhdpi-v4/ic_os_notification_fallback_white_24dp.png"
+    },
+    {
+        "merged": "/home/manu/work/dixtra/Caddie/android/app/build/intermediates/res/merged/release/drawable-xxhdpi-v4/src_assets_icons_user_avatar.jpg",
+        "source": "/home/manu/work/dixtra/Caddie/android/app/src/main/res/drawable-xxhdpi/src_assets_icons_user_avatar.jpg"
+    }
+]
